@@ -6,7 +6,7 @@ Smart City Inovasi adalah aplikasi yang dibuat untuk manajemen Inovasipada setia
 * Bootstrap
 * MySQL
 
-# Screenshot aplikasi
+## Screenshot aplikasi
 ### Login
 ![Login](https://github.com/caturbgs/sc_inovasi/blob/master/ss/login.jpg)
 
